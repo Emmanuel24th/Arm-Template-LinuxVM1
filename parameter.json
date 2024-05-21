@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "Enter storage acc": {
+        "value": "emmstore5"
+      },
+      "Enter publicip": {
+        "value": "emmapublic"
+      },
+      "Enter NSg name": {
+        "value": "emmansg5"
+      },
+      "Enter vnet": {
+        "value": "emmavnet4"
+      },
+      "Enter network inter": {
+        "value": "emmnetint"
+      },
+      "Enter OS profile": {
+        "value": "emmospro5l"
+      },
+      "Enter OS disk name": {
+        "value": "emmosd8"
+      },
+      "Enter subnet name": {
+        "value": "emmsubnt"
+      },
+      "Enter vm name": {
+        "value": "emmvmnme"
+      }
+    }
+  }
